@@ -1,0 +1,2 @@
+0-hello_world
+1-confused_smiley2-hellofile3-twofiles4-lastlines5-firstlines6-third_line7-file8-cwd_state9-duplicate_last_line10-no_more_js11-directories12-newest_files13-unique14-findthatword15-countthatword16-whatsnext17-hidethisword18-letteronly19-AZ20-hiago21-reverse22-users_and_homes100-empty_casks101-gifs102-acrostic103-the_biggest_fan
